@@ -1,2 +1,2 @@
 # pages
-pages files
+pages readme.md file.
